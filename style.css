@@ -1,0 +1,17 @@
+.img-girl{
+    width: 600px;
+}
+
+.orange-logo{
+    width: 30px;
+    height:2px;
+    background-color: orange;
+}
+.input-email{
+    background-color: rgb(243, 243, 243);
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
